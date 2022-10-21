@@ -19,7 +19,6 @@ I’m a software Engineer specializing in building Full stack web and Mobile app
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Android app development  
   
@@ -28,16 +27,6 @@ I’m a software Engineer specializing in building Full stack web and Mobile app
   
 
 - ❓ Ask me about anything related to MERN stack and mobile related technologies  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.ibb.co/s6yxLHy/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -62,32 +51,4 @@ I’m a software Engineer specializing in building Full stack web and Mobile app
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavswaroopreddy&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
